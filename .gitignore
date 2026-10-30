@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated media (kept local; the README documents test results)
+*.mp4
+*.mov
+
+# Local run outputs
+*.log
+shorts_out/
+concat_projects/
+demo/
+testdata/
+BUILD-REPORT.md
